@@ -18,4 +18,4 @@ Bij NCLE™ Solutions bieden we een breed scala aan producten en diensten, waaro
 We verwelkomen bijdragen van iedereen die onze visie deelt. Zie het [CONTRIBUTING.md](CONTRIBUTING.md) bestand voor meer informatie over hoe je kunt bijdragen.
 
 ## Contact
-Voor vragen, ondersteuning of meer informatie, neem contact met ons op via [info@ncle-solutions.com](mailto:info@ncle-solutions.com).
+Voor vragen, ondersteuning of meer informatie, neem contact met ons op via [info@ncle-solutions.com](mailto:info@nclesolutions.com).
